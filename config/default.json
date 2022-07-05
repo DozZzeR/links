@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret": "mashkaelamakarony",
+    "mongoURI": "mongodb+srv://dbUser:wsxGd64LSCeajkCW@cluster0.ftbmw.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
+
